@@ -21,6 +21,9 @@ This directory has topic wise class notes.
 ## Homework
 This directory has aa the data, scripts, and analysis of each homework.
 
+---
+#### <I> This is added by Ashvini F to understand how to resolve conflict
+
 
 
 
