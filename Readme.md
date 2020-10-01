@@ -23,6 +23,8 @@ This directory has aa the data, scripts, and analysis of each homework.
 
 ---
 #### <I> This is added by Ashvini F to understand how to resolve conflict
+The following lines are writing by Ines to create a conflict.
+After taht we can go to sleep!
 
 
 
